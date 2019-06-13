@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WindowsFormsApp1" GeneratedClassName="Settings1">
+  <Profiles />
+  <Settings>
+    <Setting Name="対象リポジトリfolder" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">12217柏市,14100横浜市,14201横須賀市,18201福井市,27215寝屋川市,28000兵庫県,28100神戸市,28203明石市,28204西宮市,30201和歌山市,33202倉敷市</Value>
+    </Setting>
+    <Setting Name="PKGリポジトリfolder" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">99999共通資産</Value>
+    </Setting>
+    <Setting Name="SMTPサーバ" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">mail.k-js.co.jp</Value>
+    </Setting>
+    <Setting Name="SMTPポート番号" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">25</Value>
+    </Setting>
+    <Setting Name="対象リポジトリroot" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">caelum/生活衛生SVN/</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
