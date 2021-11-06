@@ -161,7 +161,7 @@ namespace WindowsFormsApp1
                 }
 
                 // 値を読み込む
-                if (str_readLine.StartsWith("r"))
+                if (Regex.IsMatch(str_readLine, @"^r\d+(.*)\d line"))
                 {
                     // リビジョン番号 | ユーザー | コミット時刻 | n lines
                     string[] str_readBlock = str_readLine.Split('|');
@@ -194,6 +194,10 @@ namespace WindowsFormsApp1
             {
                 // パス部分を削除
                 string str_wk_対象資産 = Regex.Replace(str_対象資産.Replace('\\', '/'), ".*/", "");
+
+                // 資産名変更のコミット対応
+                // "変更後資産名.拡張子(from 変更前資産名.拡張子)"の形式でログ出力されるので、変更前資産名を抽出する
+                str_wk_対象資産 = Regex.Replace(str_wk_対象資産, @":\d+\)", "");
 
                 if (prm_lst_個別資産一覧.Exists(s => Regex.IsMatch(s, ".*" + str_wk_対象資産 + "$")))
                 {

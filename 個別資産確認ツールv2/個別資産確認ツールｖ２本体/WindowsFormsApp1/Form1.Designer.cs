@@ -203,6 +203,7 @@
             this.Controls.Add(this.CM_フォルダ参照);
             this.Controls.Add(this.TC_出力ウィンドウ);
             this.Controls.Add(this.statusStrip1);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximumSize = new System.Drawing.Size(816, 489);
             this.MinimumSize = new System.Drawing.Size(816, 489);
             this.Name = "Form1";

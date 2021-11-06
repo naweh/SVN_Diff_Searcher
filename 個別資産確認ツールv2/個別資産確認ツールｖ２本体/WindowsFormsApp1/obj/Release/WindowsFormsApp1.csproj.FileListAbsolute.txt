@@ -24,3 +24,17 @@ C:\Users\021711\Downloads\個別資産確認ツールv2\WindowsFormsApp1\obj\Rel
 C:\Users\021711\Downloads\個別資産確認ツールv2\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CopyComplete
 C:\Users\021711\Downloads\個別資産確認ツールv2\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
 C:\Users\021711\Downloads\個別資産確認ツールv2\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
+C:\Users\021711\Downloads\個別資産確認ツールv2\個別資産確認ツールｖ２本体\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+C:\Users\021711\Downloads\個別資産確認ツールv2\個別資産確認ツールｖ２本体\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+C:\Users\021711\Downloads\個別資産確認ツールv2\個別資産確認ツールｖ２本体\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+C:\Users\021711\Downloads\個別資産確認ツールv2\個別資産確認ツールｖ２本体\WindowsFormsApp1\bin\Release\Microsoft.WindowsAPICodePack.dll
+C:\Users\021711\Downloads\個別資産確認ツールv2\個別資産確認ツールｖ２本体\WindowsFormsApp1\bin\Release\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\021711\Downloads\個別資産確認ツールv2\個別資産確認ツールｖ２本体\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\021711\Downloads\個別資産確認ツールv2\個別資産確認ツールｖ２本体\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+C:\Users\021711\Downloads\個別資産確認ツールv2\個別資産確認ツールｖ２本体\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form2.resources
+C:\Users\021711\Downloads\個別資産確認ツールv2\個別資産確認ツールｖ２本体\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\021711\Downloads\個別資産確認ツールv2\個別資産確認ツールｖ２本体\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\021711\Downloads\個別資産確認ツールv2\個別資産確認ツールｖ２本体\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\021711\Downloads\個別資産確認ツールv2\個別資産確認ツールｖ２本体\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\021711\Downloads\個別資産確認ツールv2\個別資産確認ツールｖ２本体\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+C:\Users\021711\Downloads\個別資産確認ツールv2\個別資産確認ツールｖ２本体\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
